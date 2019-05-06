@@ -14,7 +14,7 @@
         <!-- Font Awesome -->
         <link href="css/all.min.css" rel="stylesheet" type="text/css"/>
         <script src="js/all.min.js" type="text/javascript"></script>        
-        
+         <!-- TESTE -->      
         <!-- Meu CSS -->
         <link href="css/estilo.css" rel="stylesheet" type="text/css"/>
     </head>
